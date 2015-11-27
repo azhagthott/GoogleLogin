@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">GoogleLogin</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="action_signed_in">signed in</string>
+    <string name="action_signed_out">signed out</string>
+    <string name="title_activity_main">GEX</string>
+
+    <string name="loading">loading</string>
+    <string name="signed_in_fmt">signed_in_fmt</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+</resources>

@@ -1,0 +1,51 @@
+{
+  "project_info": {
+    "project_id": "exec-login",
+    "project_number": "846872490899",
+    "name": "EXEC Login"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:846872490899:android:fcd8cb1c3d02b87e",
+        "client_id": "android:cl.exec.android.googlelogin",
+        "client_type": 1,
+        "android_client_info": {
+          "package_name": "cl.exec.android.googlelogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "846872490899-oga0q0norb521kkoit3hrcgudoda6uuq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "cl.exec.android.googlelogin",
+            "certificate_hash": "2D819A49E226B4255E7985B442CA1BD4CC1512A3"
+          }
+        }
+      ],
+      "api_key": [],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "cloud_messaging_service": {
+          "status": 1,
+          "apns_config": []
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "google_signin_service": {
+          "status": 2
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "client_info": [],
+  "ARTIFACT_VERSION": "1"
+}
